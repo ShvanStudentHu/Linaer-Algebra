@@ -2,7 +2,7 @@
 
 In this repo i will be applying my Linaer algebra knowledge in C
 
-this repo will contain function for adding and multiplying vectors
+this repo will contain a function for adding and multiplying vectors
 
 function for matrix multiplication
 
